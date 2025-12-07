@@ -8,6 +8,6 @@
     "enabled": true
   },
   "vars": {
-    "VITE_CONVEX_URL": "test"
+    "VITE_CONVEX_URL": "https://utmost-lynx-807.convex.cloud"
   }
 }
