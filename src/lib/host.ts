@@ -13,5 +13,5 @@ export function GetClub() {
   }
 
   const host = GetHost();
-  return host.replace(PROD_MAIN_URL, "");
+  return host.replace(PROD_MAIN_URL, "").replace(".", "");
 }

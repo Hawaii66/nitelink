@@ -13,7 +13,9 @@
     "deploy": "wrangler deploy"
   },
   "dependencies": {
+    "@auth/core": "0.37.0",
     "@cloudflare/vite-plugin": "^1.13.8",
+    "@convex-dev/auth": "^0.0.90",
     "@convex-dev/react-query": "0.0.0-alpha.11",
     "@radix-ui/react-label": "^2.1.8",
     "@radix-ui/react-select": "^2.2.6",
